@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Playfair', serif;
+    font-size: 1.25em;
+}
+
+header {
+    background-color: rgb(94, 0, 0);
+}
+
+footer {
+    background-color: rgb(94, 0, 0);
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 50px 20px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: inherit;
+    font-size: 3rem;
+}
+
+.logo {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.avatar {
+    max-width: 500px;
+    width: 80%;
+    display: block;
+    margin: auto;
+    border: 3px black;
+    padding: auto;
+}
+
+main-nav {
+    list-style: none;
+    margin: 5px 10px;
+}
+main{
+    text-align: center;
+}
+.vocalist{
+    max-width: 500px;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.drummer{
+    max-width: 500px;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.EP{
+    max-width: 500px;
+    width: 80%;
+    display: block;
+    margin: auto;
+    bor
+}
+.Misery{
+    max-width: 500px;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.kostolom{
+    max-width: 500px;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.vocalist{
+    max-width: 500px;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.guitar{
+    max-width: 500px;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.drummer{
+    max-width: 500px;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
